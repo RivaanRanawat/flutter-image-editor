@@ -1,6 +1,6 @@
 # Image Editor App
 
-A completely Responsive Instagram App- Works on Android, iOS & Web! 
+A completely Responsive Image Editor App- Works on Android & iOS! 
 
 ## Features
 - Pick Image
