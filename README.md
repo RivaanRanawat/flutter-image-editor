@@ -1,16 +1,26 @@
-# image_editor_tutorial
+# Image Editor App
 
-A new Flutter project.
+A completely Responsive Instagram App- Works on Android, iOS & Web! 
 
-## Getting Started
+## Features
+- Pick Image
+- Add Text
+- Bold Text
+- Italic Text
+- Add New Line
+- Align Text Left, Right & Center
+- Change Colour
+- Increase Font Size
+- Decrease Font Size
 
-This project is a starting point for a Flutter application.
+## YouTube
+I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/vzg6iNziiKw) 
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img width="600" src="https://github.com/RivaanRanawat/instagram-flutter-clone/blob/master/screenshot.png" alt="Youtube Tutorial Image">
+</p>
+    
+## Feedback
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+If you have any feedback, please reach out to me at namanrivaan@gmail.com
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
